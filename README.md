@@ -48,7 +48,7 @@ Deep Learning is the foundation of modern Artificial Intelligence. From computer
 - ✅ Loss Functions (MSE, Cross-Entropy)
 - ✅ Gradient Descent & Optimizers (SGD, Adam, RMSprop)
 - ✅ Hyperparameter Tuning
-- 🔜 Convolutional Neural Networks (CNNs)
+- ✅ Convolutional Neural Networks (CNNs)
 - 🔜 Recurrent Neural Networks (RNNs)
 - 🔜 Model Evaluation & Deployment
 
