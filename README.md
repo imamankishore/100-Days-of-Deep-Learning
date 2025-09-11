@@ -7,7 +7,7 @@ This challenge is my personal commitment to explore and master the foundations a
 
 ## 🚀 Why This Challenge?
 
-Deep Learning is the foundation of modern Artificial Intelligence. From computer vision to natural language processing, deep learning models have transformed how machines understand data. This repository captures my consistent effort over 100 days to:
+Deep Learning is the foundation of modern Artificial Intelligence. From computer vision to natural language processing, deep learning models have transformed how machines understand data. This repository captures my consistent effort over 100 days to:-
 
 - Understand core deep learning concepts from scratch
 - Build models using frameworks like TensorFlow and PyTorch
