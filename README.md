@@ -1,4 +1,4 @@
-# 💯 100 Days of Deep Learning & Neural Networks... 🧠
+# 💯 100 Days of Deep Learning & Neural Networks...!! 🧠
 
 Welcome to my journey of **100 Days of Deep Learning (DL)** and **Neural Networks (NN)**!  
 This challenge is my personal commitment to explore and master the foundations and applications of Deep Learning by learning, building, and sharing projects daily...
